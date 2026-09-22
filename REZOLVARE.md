@@ -4,7 +4,8 @@ Rezolvare
 
 Tabelul tests a fost creat cu succes.
 
-/Users/andreeastefan/Desktop/Screenshot 2026-09-22 at 22.58.50.png
+<img width="2070" height="1072" alt="image" src="https://github.com/user-attachments/assets/aaaff7a3-c6d5-473f-a08f-aae5b5321525" />
+
 
 
 2. Importanța flag-ului -v
